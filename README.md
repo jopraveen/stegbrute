@@ -11,6 +11,6 @@ git clone http://github.com/jopraveen/stegbrute
 
 ### How to use this
 
-````
-python3 stegbrute.py --i yourfile --o output.txt -w wordlist.txt
+```
+python3 stegbrute.py --i yourfile --o output.txt -w wordlist.txt 
 ```
